@@ -11,3 +11,8 @@ Following libraries/frameworks of Python are used in a specific domains:
 - Scikit, Tensorflow → Machine Learning
 - Django, Fast API, Flask → Web Development
 - Selenium, BeautifulSoup → To interact with websites
+
+#### Understanding basic concepts.
+- what are variables?
+- how does print works in python?
+- common data types and how to get them?
