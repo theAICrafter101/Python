@@ -16,3 +16,9 @@ Following libraries/frameworks of Python are used in a specific domains:
 - what are variables?
 - how does print works in python?
 - common data types and how to get them?
+
+#### Strings
+- what strings are and why they are immutable.
+- string concatenation and interpolation.
+- string slicing and how it works.
+- common string methods.
