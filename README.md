@@ -22,3 +22,7 @@ Following libraries/frameworks of Python are used in a specific domains:
 - string concatenation and interpolation.
 - string slicing and how it works.
 - common string methods.
+
+#### Basic Mathematical Operations
+- how these operations works with integers, float, and strings.
+- how to augment this operations.
