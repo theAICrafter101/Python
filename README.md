@@ -26,3 +26,8 @@ Following libraries/frameworks of Python are used in a specific domains:
 #### Basic Mathematical Operations
 - how these operations works with integers, float, and strings.
 - how to augment this operations.
+
+#### Booleans and Conditionals
+- how conditional statement and logical operator works
+- how to use and, or, not operators along with conditional statements
+- how to make a nested statement
